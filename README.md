@@ -9,11 +9,17 @@ Python 2.7.12
 Libraries used:
 
 Keras   1.1.2 with Theano 0.8.2 (Backend) 
+
 Scikit Learn   0.18 
-Skimage   0.12.3 
-Numpy   1.11.1 
+
+Skimage   0.12.3
+
+Numpy   1.11.1
+
 Pandas   0.18.1 
+
 OpenCV   2.4.11 
+
 Matplotlib   1.5.1 
 
 The datasets are available in the following dropbox link:
