@@ -4,7 +4,7 @@ This deep learning project detects and recognises traffic signs on the road usin
 
 ##Install
 
-This project requires ####Python 2.7 and the following Python libraries installed:
+This project requires Python 2.7 and the following Python libraries installed:
 
 - Keras   1.1.2 with Theano 0.8.2 (Backend) 
 - Scikit Learn   0.18 
