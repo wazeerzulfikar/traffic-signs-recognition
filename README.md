@@ -1,6 +1,7 @@
 # Udacity Machine Learning Nanodegree Capstone Project
 
 This deep learning project detects and recognises traffic signs on the road using Computer Vision.
+It is essentially an implementation  of the CNN paper by Yoshua Bengio of Universite de Montreal. (https://arxiv.org/pdf/1202.2745)
 
 ## Install
 
